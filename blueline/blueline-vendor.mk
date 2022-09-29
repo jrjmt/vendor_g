@@ -143,9 +143,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/blueline/proprietary/product/etc/cne/Nexus/ROW/ROW_profiles.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/cne/Nexus/ROW/ROW_profiles.xml \
     vendor/google/blueline/proprietary/product/etc/cne/Nexus/VZW/VZW_profiles.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/cne/Nexus/VZW/VZW_profiles.xml \
     vendor/google/blueline/proprietary/product/etc/cne/andsfCne.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/cne/andsfCne.xml \
-    vendor/google/blueline/proprietary/product/etc/felica/common.cfg:$(TARGET_COPY_OUT_PRODUCT)/etc/felica/common.cfg \
-    vendor/google/blueline/proprietary/product/etc/felica/mfm.cfg:$(TARGET_COPY_OUT_PRODUCT)/etc/felica/mfm.cfg \
-    vendor/google/blueline/proprietary/product/etc/felica/mfs.cfg:$(TARGET_COPY_OUT_PRODUCT)/etc/felica/mfs.cfg \
     vendor/google/blueline/proprietary/product/etc/firmware/music_detector.descriptor:$(TARGET_COPY_OUT_PRODUCT)/etc/firmware/music_detector.descriptor \
     vendor/google/blueline/proprietary/product/etc/firmware/music_detector.sound_model:$(TARGET_COPY_OUT_PRODUCT)/etc/firmware/music_detector.sound_model \
     vendor/google/blueline/proprietary/product/etc/permissions/com.android.omadm.service.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.omadm.service.xml \
